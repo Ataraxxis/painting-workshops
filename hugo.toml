@@ -1,4 +1,4 @@
 baseURL = 'http://ataraxxis.github.io/painting-workshops/'
 languageCode = 'en-us'
 title = 'Painting-Workshops'
-theme = 'hugo-blox-builder'
+theme = 'hugo-profile'
